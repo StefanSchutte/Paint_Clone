@@ -1,6 +1,11 @@
 ## Paint Clone
 A simple web-based painting application that allows users to draw, erase, change brush sizes, and manipulate colors. The application provides features such as saving and loading the canvas from local storage, clearing the canvas, and downloading the created artwork as an image file.
 
+![2024-01-03_21-01](https://github.com/StefanSchutte/Paint_Clone/assets/127427422/a39a4fdb-61b6-477c-9618-3e72e1bd46b9)
+
+
+[Deployed Site](https://paint-clone-stefan.netlify.app/)
+
 ### Features
 - Brush Tool: Select the brush tool to draw on the canvas.
 - Brush Size: Adjust the size of the brush using a slider or input field.
